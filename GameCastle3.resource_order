@@ -38,6 +38,7 @@
     {"name":"Obj_inimigo_pai","order":1,"path":"objects/Obj_inimigo_pai/Obj_inimigo_pai.yy",},
     {"name":"Obj_screenshake","order":7,"path":"objects/Obj_screenshake/Obj_screenshake.yy",},
     {"name":"rm_init","order":1,"path":"rooms/rm_init/rm_init.yy",},
+    {"name":"room1","order":2,"path":"rooms/room1/room1.yy",},
     {"name":"Scr_ataca_player_melee","order":2,"path":"scripts/Scr_ataca_player_melee/Scr_ataca_player_melee.yy",},
     {"name":"Scr_funcoes","order":3,"path":"scripts/Scr_funcoes/Scr_funcoes.yy",},
     {"name":"snd_jump","order":1,"path":"sounds/snd_jump/snd_jump.yy",},
