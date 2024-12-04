@@ -40,6 +40,7 @@
     {"name":"rm_init","order":1,"path":"rooms/rm_init/rm_init.yy",},
     {"name":"Scr_ataca_player_melee","order":2,"path":"scripts/Scr_ataca_player_melee/Scr_ataca_player_melee.yy",},
     {"name":"Scr_funcoes","order":3,"path":"scripts/Scr_funcoes/Scr_funcoes.yy",},
+    {"name":"snd_jump","order":1,"path":"sounds/snd_jump/snd_jump.yy",},
     {"name":"Spr_bg","order":2,"path":"sprites/Spr_bg/Spr_bg.yy",},
     {"name":"Spr_dano","order":7,"path":"sprites/Spr_dano/Spr_dano.yy",},
     {"name":"Spr_esqueleto_Attack","order":4,"path":"sprites/Spr_esqueleto_Attack/Spr_esqueleto_Attack.yy",},

@@ -62,6 +62,8 @@
     {"id":{"name":"Scr_ataca_player_melee","path":"scripts/Scr_ataca_player_melee/Scr_ataca_player_melee.yy",},},
     {"id":{"name":"Scr_funcoes","path":"scripts/Scr_funcoes/Scr_funcoes.yy",},},
     {"id":{"name":"Scr_ini","path":"scripts/Scr_ini/Scr_ini.yy",},},
+    {"id":{"name":"snd_castle","path":"sounds/snd_castle/snd_castle.yy",},},
+    {"id":{"name":"snd_jump","path":"sounds/snd_jump/snd_jump.yy",},},
     {"id":{"name":"Spr_bg","path":"sprites/Spr_bg/Spr_bg.yy",},},
     {"id":{"name":"Spr_block","path":"sprites/Spr_block/Spr_block.yy",},},
     {"id":{"name":"Spr_dano","path":"sprites/Spr_dano/Spr_dano.yy",},},

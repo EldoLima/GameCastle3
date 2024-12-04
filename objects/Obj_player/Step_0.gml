@@ -9,7 +9,7 @@ var right, left, jump, attack, dash;
 right = keyboard_check(ord("D"));
 left = keyboard_check(ord("A"));
 jump = keyboard_check(ord("W"));
-attack = keyboard_check_pressed(ord("K"));
+attack = keyboard_check_pressed(ord("S"));
 dash = keyboard_check(ord("L"));
 if (ataque_buff > 0) ataque_buff -= 1;
 
