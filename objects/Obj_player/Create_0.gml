@@ -16,7 +16,7 @@ vida_max = 10;
 vida_atual = vida_max;
 
 
-max_velh = 4;
+max_velh = 2;
 max_velv = 7;
 dash_vel = 6;
 
